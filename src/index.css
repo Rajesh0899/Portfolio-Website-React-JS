@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+}
+
+#portfolio {
+   transition: scroll 5s;
+}
+body,
+html {
+    font-family: 'Jost';
+    font-style: normal;
+}
+
